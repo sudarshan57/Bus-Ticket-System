@@ -2,7 +2,7 @@
 
 The bus ticketing system is to manage the details of bus, ticket, booking , seats. It manages all the information about bus, customer, seats. This mini-project uses classes and file handling features of C++. The system does not use any external files to store the data permanently. Bus Ticketing System is developed using C++ Programming Language and different variables, strings . The purpose of the project is to build an application program to reduce the manual work for managing the bus , ticket ,customer.
 This system would help customers to book a seat for their journey, book bus. This system would also help the owner to manage the buses and clients.
-This Project is developed by using C Language.It is my BCA Mini Project,In 4th semester I have developed this Project.Although this is small project but best for beginner and college students.
+This Project is developed by using C++ Language.It is my BCA Mini Project,In 4th semester I have developed this Project.Although this is small project but best for beginner and college students.
 
 ![download (4)](https://user-images.githubusercontent.com/94542120/190473936-4e4642fe-9fb9-4f97-a77e-8d55eb4a6cbf.png)
 
